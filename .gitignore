@@ -23,4 +23,15 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment Variables
 .env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.development.local
+.env.production.local
+.env.test.local
+
+# ESLint Cache
+.eslintcache
